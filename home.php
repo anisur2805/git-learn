@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello from HOme";
+echo date( "D" );
